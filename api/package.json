@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "express": "*",
+        "nodemon": "*",
+        "body-parser": "*"
+    },
+    "scripts": {
+        "dev": "nodemon app.js",
+        "start": "node app.js"
+    }
+}
